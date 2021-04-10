@@ -1,0 +1,14 @@
+material mecatronica/texture
+{
+  technique
+  {
+    pass
+    {
+      texture_unit
+      {
+        texture mecatronica1_texture_map.png
+
+      }
+    }
+  }
+}
